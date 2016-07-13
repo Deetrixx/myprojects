@@ -2,6 +2,9 @@
 
 ## My personal projects 
 
+# personal website
+_________________
+** Link [deetrixx.github.io]
 
 # Visions Caterers
 _________________
