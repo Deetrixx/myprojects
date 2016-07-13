@@ -4,14 +4,14 @@
 
 # personal website
 _________________
-** Link [deetrixx.github.io]
+** Link: (deetrixx.github.io)
 
 # Visions Caterers
 _________________
 
 **Repo Link**
+https://github.com/Deetrixx/visisonscaterers
 
- https://github.com/Deetrixx/visisonscaterers
 **Project Details**
 A catering service company website
 
