@@ -172,4 +172,4 @@ An android application where user can post a question on baby care and other use
  + [Dennis Githua](https://github.com/Deetrixx)
  + [John wasike](https://github.com/johntechie)
  
-**Link [http://bit.ly/29m1hjR]
+**Link [http://bit.ly/29DeiFM]
